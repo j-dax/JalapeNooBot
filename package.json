@@ -1,0 +1,27 @@
+{
+  "name": "jalapeno-bot",
+  "version": "0.0.1",
+  "description": "twitch bot for littleJalapeNoo",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-dax/JalapeNooBot.git"
+  },
+  "keywords": [
+    "bot",
+    "glitch",
+    "twitch"
+  ],
+  "author": "j-dax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-dax/JalapeNooBot/issues"
+  },
+  "homepage": "https://github.com/j-dax/JalapeNooBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
