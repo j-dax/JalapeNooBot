@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/j-dax/JalapeNooBot#readme",
   "dependencies": {
-    "tmi.js": "^1.5.0"
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.8.1"
   }
 }
